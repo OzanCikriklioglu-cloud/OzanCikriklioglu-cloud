@@ -13,12 +13,12 @@ Currently, I develop security-oriented backend systems using Spring Boot and Apa
 
 <hr style="border:1px solid #8B0000;">
 <p align="center">
-  ![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-8B0000?style=for-the-badge&logo=spring&logoColor=white)
-  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-8B0000?style=for-the-badge&logo=apache-kafka&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-8B0000?style=for-the-badge&logo=docker&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-8B0000?style=for-the-badge&logo=windows&logoColor=white)
+  <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-8B0000?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-8B0000?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-8B0000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-8B0000?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 <hr style="border:1px solid #8B0000;">
