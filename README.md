@@ -18,8 +18,7 @@ Currently, I develop security-oriented backend systems using Spring Boot and Apa
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-8B0000?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-8B0000?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/-8B0000?style=for-the-badge&logo=windows&logoColor=white&label=)
-
+![](https://img.shields.io/badge/.-8B0000?style=for-the-badge&logo=windows&logoColor=white&label=)
 
 
 <hr style="border:1px solid #8B0000;">
