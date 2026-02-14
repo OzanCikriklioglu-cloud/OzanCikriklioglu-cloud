@@ -11,7 +11,7 @@ I am a Computer Science student focused on the intersection of Backend Developme
 
 Currently, I develop security-oriented backend systems using Spring Boot and Apache Kafka. I aim to implement Secure by Design principles to build resilient applications and explore SOC processes for better threat detection.
 
----
+<hr style="border:1px solid #8B0000;">
 
 ![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-8B0000?style=for-the-badge&logo=spring&logoColor=white)
@@ -20,5 +20,5 @@ Currently, I develop security-oriented backend systems using Spring Boot and Apa
 ![Linux](https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white)
 
 
----
+<hr style="border:1px solid #8B0000;">
 
