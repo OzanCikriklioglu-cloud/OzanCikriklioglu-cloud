@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Ozan%20Cikriklioglu&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-# Ozan Cikriklioglu
-
 ### CS Student | Secure by Design & SOC
 
 I am a Computer Science student focused on the intersection of Backend Development and Cyber Security. While my academic background includes AI-related coursework, my professional focus is on building secure architectures and understanding operational security.
