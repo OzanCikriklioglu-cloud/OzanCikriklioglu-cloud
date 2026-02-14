@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=990000&height=150&section=header&text=Ozan%20Cikriklioglu&fontSize=50&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Ozan%20Cikriklioglu&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 # Ozan Cikriklioglu
 
