@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=990000&height=150&section=header&text=Ozan%20Cikriklioglu&fontSize=50&fontAlignY=45" />
+</p>
 # Ozan Cikriklioglu
 
 ### CS Student | Secure by Design & SOC
