@@ -13,6 +13,7 @@ Currently, I develop security-oriented backend systems using Spring Boot and Apa
 
 <hr style="border:1px solid #8B0000;">
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-8B0000?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-8B0000?style=for-the-badge&logo=springsecurity&logoColor=white" />
