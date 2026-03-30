@@ -5,11 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=7B001C&size=32&center=true&vCenter=true&width=700&pause=1500&lines=Secure+by+Design;Backend+%7C+Cyber+Security" />
 </p>
 
-CS Student | Secure by Design & SOC
+CS Student | Backend & Security (Secure by Design)
 
-I am a Computer Science student focused on the intersection of Backend Development and Cyber Security. While my academic background includes AI-related coursework, my professional focus is on building secure architectures and understanding operational security.
+I’m a Computer Science student focused on backend development and application security. While my studies include some AI-related coursework, my main interest is building systems that are secure from the ground up.
 
-Currently, I develop security-oriented backend systems using Spring Boot and Apache Kafka. I aim to implement Secure by Design principles to build resilient applications and explore SOC processes for better threat detection.
+I work primarily with Spring Boot and focus on designing backend services with strong security practices, data isolation, and reliability in mind. I try to approach every project with a “secure by design” mindset rather than treating security as an afterthought.
+
+Lately, I’ve been exploring asynchronous systems and event-driven architectures, while also developing an understanding of operational security and SOC processes to get a broader view of how systems are monitored and protected in real environments.
 
 <hr style="border:1px solid #8B0000;">
 <p align="center">
