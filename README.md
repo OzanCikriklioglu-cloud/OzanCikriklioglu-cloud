@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2,2563EB,60A5FA&height=220&section=header&text=Ozan%20Cikriklioglu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6,60A5FA,93C5FD&height=220&section=header&text=Ozan%20Cikriklioglu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
