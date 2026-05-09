@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e3a5f,60:2563eb,100:38bdf8&height=250&section=header&text=Ozan%20Cikriklioglu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Cloud%20%7C%20Security%20%7C%20Applied%20ML&descSize=18&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:111827,50:1d4ed8,75:7c3aed,100:22d3ee&height=270&section=header&text=Ozan%20Cikriklioglu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Cloud%20%7C%20Security-aware%20Systems&descSize=18&descAlignY=56&descAlign=50" />
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?color=38bdf8&size=28&center=true&vCenter=true&width=850&pause=1500&lines=Backend+%7C+Cloud+%7C+Security;Spring+Boot+%7C+WebFlux+%7C+RabbitMQ+%7C+Redis;Python+%7C+Scikit-learn+%7C+Applied+ML;Docker+%7C+GitHub+Actions+%7C+CI%2FCD;Prometheus+%7C+Grafana+%7C+Observability" />
@@ -69,5 +69,3 @@ While I have a strong interest in security, I treat it as a natural part of back
 
 <br>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,40:2563eb,70:1e3a5f,100:0f172a&height=120&section=footer" />
