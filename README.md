@@ -44,7 +44,6 @@ While I have a strong interest in security, I treat it as a natural part of back
 
 <img src="https://img.shields.io/badge/Scikit--learn-6d28d9?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/RabbitMQ-6d28d9?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-6d28d9?style=for-the-badge&logo=redis&logoColor=white" />
 
 <br>
 
@@ -52,12 +51,6 @@ While I have a strong interest in security, I treat it as a natural part of back
 <img src="https://img.shields.io/badge/Grafana-0ea5e9?style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-0ea5e9?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/AWS-0284c7?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/EC2-0284c7?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/RDS-0369a1?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 <br>
 
